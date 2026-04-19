@@ -1,1 +1,2 @@
 # Ranking-List
+This project is a JavaScript ranking list manager that allows users to customize and organize a list of items. Users can add new items, remove items, insert items at specific positions, move items to different rankings, edit existing entries, or clear the entire list. The program updates the displayed rankings dynamically after each change. It uses arrays, functions, loops, prompts, and DOM manipulation to create an interactive list management tool.
